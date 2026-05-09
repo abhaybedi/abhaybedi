@@ -12,7 +12,7 @@ Data Science • Machine Learning • Deep Learning • AI Engineering
 
 ---
 
-## about Me
+## about me
 
 <img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWc5d3k2d2Q2aW5zNnhwYWRybWZnN3M4YmxzNnlybTJtbDJqMXAwNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l378c04F2fjeZ7vH2/giphy.gif">
 
