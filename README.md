@@ -18,36 +18,7 @@ Data Science • Machine Learning • Deep Learning • AI Engineering
 <img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWc5d3k2d2Q2aW5zNnhwYWRybWZnN3M4YmxzNnlybTJtbDJqMXAwNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l378c04F2fjeZ7vH2/giphy.gif">
 
 ````python
-class AbhayBedi:
-
-    def __init__(self):
-        self.location = "Germany 🇩🇪"
-        self.education = "MSc Data Science @ FAU Erlangen-Nürnberg"
-        self.background = "Computer Science Engineer"
-
-        self.interests = [
-            "Machine Learning",
-            "Deep Learning",
-            "Computer Vision",
-            "NLP",
-            "Generative AI",
-            "AI Deployment",
-            "MLOps",
-            "Research"
-        ]
-
-    def currently_working_on(self):
-
-        return [
-            "LLMs & HuggingFace",
-            "Real-world ML systems",
-            "PyTorch/TensorFlow projects",
-            "AI-powered web applications",
-            "Scalable deployment pipelines"
-        ]
-
-    def life_philosophy(self):
-        return "Build fast. Learn faster."
+location = "Germany 🇩🇪" role = "MSc Data Science Student" university = "FAU Erlangen-Nürnberg" interests = [ "Machine Learning", "Deep Learning", "Computer Vision", "NLP", "Generative AI", "MLOps" ] tech_stack = [ "PyTorch", "TensorFlow", "NumPy", "Pandas", "HuggingFace", "OpenCV" ] currently_learning = [ "LLMs", "AI Deployment", "Scalable ML Systems" ] motto = "Build fast. Learn faster."
 ````
 
 ---
