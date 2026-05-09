@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abhay Bedi</h1>
+<h1 align="center">hi 👋, im abhay bedi</h1>
 
 <h3 align="center">
 Data Science • Machine Learning • Deep Learning • AI Engineering
@@ -12,7 +12,7 @@ Data Science • Machine Learning • Deep Learning • AI Engineering
 
 ---
 
-## 🚀 About Me
+## about Me
 
 <img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWc5d3k2d2Q2aW5zNnhwYWRybWZnN3M4YmxzNnlybTJtbDJqMXAwNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l378c04F2fjeZ7vH2/giphy.gif">
 
@@ -65,16 +65,16 @@ class AbhayBedi:
 
 ---
 
-## ⚒️ Tech Arsenal
+## ⚒️ tech Arsenal
 
-### 👨💻 Languages
+### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🤖 AI / ML
+### AI / ML
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -83,14 +83,14 @@ class AbhayBedi:
 ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-### 📊 Data Science
+### Data Science
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
-### 🌐 Deployment & Development
+### Deployment & Development
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -100,17 +100,16 @@ class AbhayBedi:
 
 ---
 
-## 📚 Currently Exploring
+## Currently Exploring
 
-- 🔥 Transformers & Attention Architectures
-- 🧠 Diffusion Models & Generative AI
-- ⚙️ MLOps + Production AI Pipelines
-- 🛰️ AI for Real-world Systems
-- 📈 Efficient Training & Optimization
+-  Transformers & Attention Architectures
+-  Diffusion Models & Generative AI
+-  MLOps + Production AI Pipelines
+-  AI for Real-world Systems
 
 ---
 
-## 🌍 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="mailto:abhaybedi1313@gmail.com">
