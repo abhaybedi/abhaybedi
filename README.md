@@ -1,30 +1,151 @@
-# 💫 About Me:
-🔭 I’m currently working on web scrapping extensions for chrome<br>👯 I’m looking to collaborate on turning models into usable web applications using django<br>🤝 I’m looking for help with Data Structures & Algorithms<br>🌱 I’m currently learning to deploy real world AI/ML models<br>💬 Ask me about object detection & identification<br>⚡ Fun fact- I make all my projects in one go!
+````md
+<h1 align="center">Hi 👋, I'm Abhay Bedi</h1>
+<h3 align="center">Data Science • Machine Learning • Deep Learning • AI Engineering</h3>
 
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Doofenshmirtz#4430) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhay-bedi26) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/abhaybedi68) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=abhaybedi&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=abhaybedi&theme=highcontrast&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhaybedi&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=abhaybedi&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=abhaybedi&limit=5&theme=onedark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=MSc+Data+Science+Student+in+Germany;Building+AI+that+actually+ships;Deep+Learning+%7C+Computer+Vision+%7C+NLP;PyTorch+%7C+TensorFlow+%7C+HuggingFace;Turning+ideas+into+production-ready+systems" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=abhaybedi&icon=1&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🚀 About Me
+
+```python
+class AbhayBedi:
+
+    def __init__(self):
+        self.location = "Germany 🇩🇪"
+        self.education = "MSc Data Science @ FAU Erlangen-Nürnberg"
+        self.background = "Computer Science Engineer"
+        self.interests = [
+            "Machine Learning",
+            "Deep Learning",
+            "Computer Vision",
+            "NLP",
+            "Generative AI",
+            "AI Deployment",
+            "MLOps",
+            "Research"
+        ]
+
+    def currently_working_on(self):
+        return [
+            "LLMs & HuggingFace",
+            "Real-world ML systems",
+            "PyTorch/TensorFlow projects",
+            "AI-powered web apps",
+            "Model deployment pipelines"
+        ]
+
+    def life_philosophy(self):
+        return "Build fast. Learn faster."
+````
+
+---
+
+# 🧠 Core Areas
+
+* 🤖 Deep Learning & Neural Networks
+* 🧩 Large Language Models (LLMs)
+* 👁️ Computer Vision & Object Detection
+* 🗣️ NLP & Transformers
+* 📊 Predictive Analytics & Data Science
+* ⚡ AI Model Deployment & APIs
+* ☁️ Cloud + Scalable ML Systems
+* 🔬 Research-driven AI Development
+
+---
+
+# ⚒️ Tech Arsenal
+
+## 👨‍💻 Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge\&logo=r\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
+## 🤖 AI / ML
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge\&logo=keras\&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
+
+## 📊 Data Science
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge\&logo=plotly\&logoColor=white)
+
+## 🌐 Deployment & Development
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+
+---
+
+# 📚 Currently Exploring
+
+* 🔥 Transformers & Attention Architectures
+* 🧠 Diffusion Models & Generative AI
+* ⚙️ MLOps + Production AI Pipelines
+* 🛰️ AI for Real-world Systems
+* 📈 Efficient Training & Optimization
+
+---
+
+# 🌍 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/abhay-bedi26" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="50" />
+</a>
+
+<a href="mailto:yourmail@gmail.com" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="50" />
+</a>
+</p>
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=abhaybedi&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhaybedi&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhaybedi&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 Achievements
+
+* 🎓 MSc Data Science Student in Germany
+* 💼 Industry Experience in IT & AI Projects
+* 🧪 Worked on Clinical Text Analysis & AI Systems
+* 🚀 Passionate about building deployable AI products
+* ⚡ Known for building projects end-to-end at insane speed
+
+---
+
+# 🧬 Philosophy
+
+> “The best way to learn AI is to build AI.”
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhaybedi&label=Profile%20Views&color=0e75b6&style=flat" alt="abhaybedi" />
+</p>
+```
